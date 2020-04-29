@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ClimaApp</string>
+
+    <string name="clima_soleado">&#xf00d;</string>
+    <string name="clima_noche_despejada">&#xf02e;</string>
+
+    <string name="clima_bruma">&#xf014;</string>
+    <string name="clima_nubes">&#xf013;</string>
+    <string name="clima_lluvia">&#xf019;</string>
+    <string name="clima_nieve">&#xf01b;</string>
+    <string name="clima_truenos">&#xf01e;</string>
+    <string name="clima_llovizna">&#xf01c;</string>
+
+    <string name="lugar_no_encontrado">Lo sentimos, no hay datos de clima encontrados.</string>
+
+</resources>

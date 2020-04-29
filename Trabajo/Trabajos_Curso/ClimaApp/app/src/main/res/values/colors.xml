@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#1161e1</color>
+
+    <color name="colorCeleste">#0CB7F2</color>
+    <color name="colorAzulClaro">#3F51B5</color>
+    <color name="colorAzul">#303F9F</color>
+    <color name="colorMorado">#9448f1</color>
+    <color name="colorRosa">#FF4081</color>
+    <color name="colorVerdeClaro">#3db451</color>
+    <color name="colorVerde">#17a04d</color>
+    <color name="colorAmarillo">#f4f74c</color>
+    <color name="colorNaranja">#f28f3e</color>
+    <color name="colorPlomoClaro">#d4cece</color>
+    <color name="colorPlomoOscuro">#615f5f</color>
+    <color name="colorNegro">#000000</color>
+    <color name="colorBlanco">#ffffff</color>
+    <color name="colorSpinner">#d5edf9</color>
+    <color name="colorTextView">#f8f9f2</color>
+
+    <color name="button_pressed">#ff8a00</color>
+    <color name="button_focused">#ff8a00</color>
+    <color name="button_default">#1161e1</color>
+
+    <color name="colorFondo">#a8e8fd</color>
+    <color name="colorCircleStroke">#6499e9</color>
+    <color name="colorWhite">#ffffff</color>
+</resources>
