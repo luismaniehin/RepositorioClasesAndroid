@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "777311387311",
+    "firebase_url": "https://lmchat-b5ebb.firebaseio.com",
+    "project_id": "lmchat-b5ebb",
+    "storage_bucket": "lmchat-b5ebb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777311387311:android:1152caec5a454fd4",
+        "android_client_info": {
+          "package_name": "com.example.nh.lab005"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777311387311-vud6gjg3lup6msukmi01qrv3ja841rm2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nh.lab005",
+            "certificate_hash": "eb934a0a8c04cbe0bd27f072bcd4d1c4f72ee8eb"
+          }
+        },
+        {
+          "client_id": "777311387311-e5abh8ufm4jsghvp87e85ukl1dlnlbdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCogzY4BfNfsqH_pIc8ROp4wffSKuQ6NJM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777311387311-e5abh8ufm4jsghvp87e85ukl1dlnlbdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

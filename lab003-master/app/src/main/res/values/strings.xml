@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab003</string>
+
+    <string name="SaludoCumpleanios">Feliz Cumpleaños</string>
+    <string name="SaludoNombre">Luis</string>
+
+    <string name="Hangout">Escribe tu hangout aqui ...</string>
+</resources>

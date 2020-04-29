@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1665af</color>
+    <color name="colorPrimaryDark">#07499b</color>
+    <color name="colorAccent">#178931</color>
+    
+    <color name="marron">#3E2723</color>
+    <color name="marronClaro">#D7CCC8</color>
+    <color name="marronMedio">#795548</color>
+
+    <color name="naranja">#DD2C00</color>
+    <color name="naranjaClaro">#FFCCBC</color>
+    <color name="naranjaMedio">#FF8A65</color>
+
+    <color name="blanco">#ffffff</color>
+</resources>
